@@ -1,0 +1,18 @@
+{
+  "name": "all-or-nothing",
+	"private": true,
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-persist": "^2.1.0",
+    "twit": "^2.2.9",
+    "mastodon": "^1.2.1",
+    "corpora-project": "^0.2.0",
+    "capitalize": "^1.0.0"
+  }
+}
